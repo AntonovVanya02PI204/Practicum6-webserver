@@ -39,9 +39,6 @@ web_pr.py- сервер, settings.py - файл настроек сервера.
 
 ![image](https://user-images.githubusercontent.com/92279258/146091848-947a1085-bc9d-47ed-8fd8-4d9a2447d7fe.png)
 
-Если файл не найден, сервер передает в сокет специальный код ошибки - 404.
-
-![image](https://user-images.githubusercontent.com/92279258/146092015-f0662cd0-8281-4c02-af4f-0ac076881f8e.png)
 
 Если ошибок не возникает - то осуществляется успешное открытие файла index.html 
 
@@ -50,9 +47,11 @@ web_pr.py- сервер, settings.py - файл настроек сервера.
 ![image](https://user-images.githubusercontent.com/92279258/146092557-af8f88b3-9112-47c2-ae8e-6639ac4d8f2f.png)
 
 Проверка корректного запуска всех изображений с разным расширением, (все доступные расширения прописаны в settings.py, скрин приложен выше)
+
 Запуск image.jpg:
 
 ![image](https://user-images.githubusercontent.com/92279258/146093478-5c9b9668-e815-4507-b9bd-d3e2bbca7c05.png)
+
 Запуск image.png:
 
 ![image](https://user-images.githubusercontent.com/92279258/146093501-d484ddc3-6503-4fe4-946e-f9bce4585d6a.png)
@@ -89,7 +88,7 @@ web_pr.py- сервер, settings.py - файл настроек сервера.
 
 ![image](https://user-images.githubusercontent.com/92279258/146094313-55749713-786e-4a8d-be00-463b2b84e434.png)
 
-Скрин файлов с логами 
+Скрин файла с логами 
 
 ![image](https://user-images.githubusercontent.com/92279258/146094585-4024587e-a998-46c9-8656-842a4839f3c0.png)
 
