@@ -1,0 +1,40 @@
+Date: Tue, 14 Dec 2021 23:08:14 GTM
+Addr: ('127.0.0.1', 62135)
+File: C:\Users\ivana\index.html
+Date: Tue, 14 Dec 2021 23:08:14 GTM
+Addr: ('127.0.0.1', 62136)
+File: C:\Users\ivana\404.html
+Error: 404
+Date: Tue, 14 Dec 2021 23:58:53 GTM
+Addr: ('127.0.0.1', 50533)
+File: C:\Users\ivana\image.jpg
+Date: Tue, 14 Dec 2021 23:59:19 GTM
+Addr: ('127.0.0.1', 50548)
+File: C:\Users\ivana\index.html
+Date: Tue, 14 Dec 2021 23:59:49 GTM
+Addr: ('127.0.0.1', 62303)
+File: C:\Users\ivana\image.png
+Date: Wed, 15 Dec 2021 00:00:02 GTM
+Addr: ('127.0.0.1', 62311)
+File: C:\Users\ivana\image.gif
+Date: Wed, 15 Dec 2021 00:01:25 GTM
+Addr: ('127.0.0.1', 58038)
+File: C:\Users\ivana\404.html
+Date: Wed, 15 Dec 2021 00:01:38 GTM
+Addr: ('127.0.0.1', 58991)
+File: C:\Users\ivana\index.html
+Date: Wed, 15 Dec 2021 00:01:49 GTM
+Addr: ('127.0.0.1', 49899)
+File: C:\Users\ivana\404.html
+Date: Wed, 15 Dec 2021 00:02:05 GTM
+Addr: ('127.0.0.1', 49911)
+File: C:\Users\ivana\404.html
+Date: Wed, 15 Dec 2021 00:02:57 GTM
+Addr: ('127.0.0.1', 63446)
+File: C:\Users\ivana\image.png
+Date: Wed, 15 Dec 2021 00:03:01 GTM
+Addr: ('127.0.0.1', 63447)
+File: C:\Users\ivana\404.html
+Date: Wed, 15 Dec 2021 01:42:49 GTM
+Addr: ('127.0.0.1', 62361)
+File: C:\Users\ivana\index.html
